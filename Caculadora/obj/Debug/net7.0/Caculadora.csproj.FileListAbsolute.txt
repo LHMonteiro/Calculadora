@@ -1,0 +1,15 @@
+C:\Users\vicen\Calculadora\Caculadora\bin\Debug\net7.0\Caculadora.exe
+C:\Users\vicen\Calculadora\Caculadora\bin\Debug\net7.0\Caculadora.deps.json
+C:\Users\vicen\Calculadora\Caculadora\bin\Debug\net7.0\Caculadora.runtimeconfig.json
+C:\Users\vicen\Calculadora\Caculadora\bin\Debug\net7.0\Caculadora.dll
+C:\Users\vicen\Calculadora\Caculadora\bin\Debug\net7.0\Caculadora.pdb
+C:\Users\vicen\Calculadora\Caculadora\obj\Debug\net7.0\Caculadora.csproj.AssemblyReference.cache
+C:\Users\vicen\Calculadora\Caculadora\obj\Debug\net7.0\Caculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vicen\Calculadora\Caculadora\obj\Debug\net7.0\Caculadora.AssemblyInfoInputs.cache
+C:\Users\vicen\Calculadora\Caculadora\obj\Debug\net7.0\Caculadora.AssemblyInfo.cs
+C:\Users\vicen\Calculadora\Caculadora\obj\Debug\net7.0\Caculadora.csproj.CoreCompileInputs.cache
+C:\Users\vicen\Calculadora\Caculadora\obj\Debug\net7.0\Caculadora.dll
+C:\Users\vicen\Calculadora\Caculadora\obj\Debug\net7.0\refint\Caculadora.dll
+C:\Users\vicen\Calculadora\Caculadora\obj\Debug\net7.0\Caculadora.pdb
+C:\Users\vicen\Calculadora\Caculadora\obj\Debug\net7.0\Caculadora.genruntimeconfig.cache
+C:\Users\vicen\Calculadora\Caculadora\obj\Debug\net7.0\ref\Caculadora.dll
